@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Betty Pauley | Portfolio</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@700&family=Oswald&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="content-wrapper">
+        <h1>Betty Pauley</h1>
+        <nav>
+            <ul>
+                <li><a href="#">home</a></li>
+                <li><a href="#work">work</a></li>
+                <li><a href="#about">about me</a></li>
+                <li><a href="#contact">get in touch</a></li>
+            </ul>
+        </nav>
+        <h2>Hi! I'm Betty</h2>
+        <h3>I am a certified UX/UI designer and Front End Developer based in Las Vegas, Nevada. I’m dedicated to
+            creating eye-catching and emotionally resonating designs for businesses and personal brands. Check out my
+            work below!</h2>
+    </div>
+    </header>
+    </div>
+
+
+</body>
